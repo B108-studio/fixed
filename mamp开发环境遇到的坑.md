@@ -17,5 +17,5 @@ phpmyadmin5.0已经发布，但是直接运行时有以下两条错误：
 1.`$cfg['blowfish_secret'] = 'qasqw2wefsd2asdfgw'`
 2.追加 `$cfg['TempDir'] = '/tmp';`
 reference:  
-    *[1](https://www.doctype.com.cn/archives/278/)*
-    *[2](https://cloud.tencent.com/developer/ask/187917)*
+    *[https://www.doctype.com.cn/archives/278/](https://www.doctype.com.cn/archives/278/)*
+    *[https://cloud.tencent.com/developer/ask/187917](https://cloud.tencent.com/developer/ask/187917)*
